@@ -10,6 +10,7 @@ on:
 
 
 
+
 env:
   CI: false
   AZURE_WEBAPP_NAME: tailwindtraders-s12    # set this to your application's name

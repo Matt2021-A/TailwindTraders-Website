@@ -13,7 +13,7 @@ on:
 
 env:
   CI: false
-  AZURE_WEBAPP_NAME: tailwindtraders-s12    # set this to your application's name
+  AZURE_WEBAPP_NAME: tailwindtraders-s02    # set this to your application's name
   AZURE_WEBAPP_PACKAGE_PATH: 'd:\a\TailwindTraders-Website-Drop'    
   AZURE_WEBAPP_PROJECT_PATH: 'd:\a\TailwindTraders-Website\TailwindTraders-Website\Source\Tailwind.Traders.Web\Tailwind.Traders.Web.csproj'    
 jobs:
